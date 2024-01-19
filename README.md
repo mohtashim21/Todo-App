@@ -1,1 +1,1 @@
-visit site <a href="https://my-todo-app-react-js.netlify.app/">Todo app</a>
+visit website click <a href="https://my-todo-app-react-js.netlify.app/">Todo app</a>
